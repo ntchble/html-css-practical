@@ -80,7 +80,7 @@ nav a {
 .about-photo {
   border-radius: 50%;
   width: 280px;
-  height: auto;
+  height: 280px;
   max-width: 280px;
 }
 
